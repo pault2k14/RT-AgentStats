@@ -1,0 +1,3 @@
+Status = 'resolved' AND Created > '2014-05-01' AND Queue = 'uss-helpdesk'
+Status = 'resolved' AND Created > '2014-03-20' AND Queue = 'uss-helpdesk'
+Status = 'resolved' AND Created > '2014-03-22' AND Queue = 'uss-helpdesk'
